@@ -89,7 +89,7 @@ Las respuestas deben claras y cortas, no exceder las 100 palabras
 '''
 
 
-st.title("Chatea con el FincoAnalítico 💬🧑‍💻")
+st.title("Chatea con EVAL- IA 💬🧑‍💻")
 
 # with st.sidebar:
 #     st.title('Configuraciones')
